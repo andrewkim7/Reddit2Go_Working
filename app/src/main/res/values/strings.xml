@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reddit2Go_Working</string>
+
+    <string name="signin">Login</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_settings">Settings</string>
+</resources>
